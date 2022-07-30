@@ -1,4 +1,4 @@
-# A Whale Off the Port(folio): Portflio Analysis using Pandas 
+# A Whale Off the Port(folio): Portflio Analysis using Pandas
 
  ![whale-portflio.png](Images/portfolio-analysis.png)
 
