@@ -59,9 +59,9 @@ Analyze the data to see if any of the portfolios outperform the stock market (i.
 
 #### Risk Analysis
 
-1. Create a box plot for each of the returns. 
+1. Create a box plot for each of the returns.
 
-2. Calculate the standard deviation for each portfolio. 
+2. Calculate the standard deviation for each portfolio.
 
 3. Determine which portfolios are riskier than the S&P 500.
 
